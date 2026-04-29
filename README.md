@@ -883,11 +883,6 @@
         
         // Blog Posts
         const blogPosts = [
-            {
-                title: "10 Free Online Tools That Boost Productivity in 2026",
-                date: "Apr 29, 2026",
-                author: "Daily Tools Nest",
-  readTime: "5 min read"
             },
             {
                 title: "How to Create Professional QR Codes for Your Business",
