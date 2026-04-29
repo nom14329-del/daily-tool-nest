@@ -885,7 +885,7 @@
         const blogPosts = [
             },
             {
-                title: "How to Create Professional QR Codes for Your Business",
+             title: "How to Create Professional QR Codes for Your Business",
                 date: "Jan 10, 2024",
                 author: "Marketing Team",
                 excerpt: "Learn the best practices for creating custom QR codes that maintain your brand identity while ensuring scannability.",
